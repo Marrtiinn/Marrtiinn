@@ -23,7 +23,7 @@ AI & Machine Learning · Currently at EngoSoft · Open to junior AI/ML and softw
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-**Areas:** Computer Vision (YOLO11 detection & segmentation) · Arabic NLP (AraBERT / MARBERT) · RAG & LLM applications · Classification & prediction · Model deployment (FastAPI, Docker, Streamlit) · SQL & KPI dashboards
+**Areas:** Computer Vision (YOLO detection & segmentation) · Arabic NLP (AraBERT / MARBERT) · RAG & LLM applications · Classification & prediction · Model deployment (FastAPI, Docker, Streamlit) · SQL & KPI dashboards
 
 ---
 
